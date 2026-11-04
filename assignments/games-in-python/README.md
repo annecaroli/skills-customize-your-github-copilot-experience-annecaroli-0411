@@ -5,7 +5,7 @@
 
 Pratique manipulação de strings, loops, condicionais e seleção aleatória criando uma versão do jogo da Forca em Python.
 
-## 📝 Terefas
+## 📝 Tarefas
 
 ### 🛠️ Preparar a Palavra e Receber Palpites
 
